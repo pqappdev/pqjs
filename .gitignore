@@ -1,0 +1,15 @@
+#mac osx files
+.DS_Store
+#netbeans project files
+/nbproject/
+#log files
+*.log
+#yii assets
+/assets/
+#yii runtime files
+/protected/runtime/
+#Php Storm Dosyaları
+/.idea/
+/themes/classic/.sass-cache/
+/themes/classic/sass/_compass.css
+/themes/classic/sass/screen.css
